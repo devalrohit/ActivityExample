@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivityExample</string>
+    <string name="text_navigation_to_provile" />
+    <string name="nagative_to_provile">Nagative to Provile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="about">about apps\n</string>
+</resources>
